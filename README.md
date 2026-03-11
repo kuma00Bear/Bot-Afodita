@@ -1,3 +1,8 @@
+# Aiko Motion - LTX-2 Fork
+#Versión personalizada para bot Telegram de generación de videos NSFW/SFW con audio sync.
+#Basado en Lightricks/LTX-2.
+#Próximos: Integración python-telegram-bot, límites diarios, pagos Stars.
+
 # LTX-2
 
 [![Website](https://img.shields.io/badge/Website-LTX-181717?logo=google-chrome)](https://ltx.io)
